@@ -1,1 +1,1 @@
-# COVID-19-project-1
+# COVID-19-project
